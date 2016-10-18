@@ -1,4 +1,4 @@
-# Reads a fasta file and prints the sequence to try out. 
+# Reads a fasta file. Then print the sequence to the terminal. 
 import sys
 
 def read_fasta(filename):
